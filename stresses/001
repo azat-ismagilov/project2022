@@ -1,0 +1,1 @@
+{"id":"84d005b68289df4aebdd64ba16a932b0","index":1,"scriptPattern":"gen 100000 1000 [0..100] [0..100] [0..100]","inputFile":"stdin","outputFile":"stdout","memoryLimit":256,"timeLimit":1000,"totalTimeLimit":120000,"solutionNames":["ismagilov_n2.cpp","ismagilov_ok.cpp"],"description":"","solutionNamesUid":""}
